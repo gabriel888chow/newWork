@@ -123,7 +123,7 @@ function Navbar() {
 
         <Button variant="text">
           <Link to="/" activeclassname="active" onClick={handleDrawerClose} style={{textDecoration: "none", color: "#A02337"}}>
-            Home Page
+            Home Pages
           </Link>
         </Button>
 
